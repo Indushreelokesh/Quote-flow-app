@@ -5,7 +5,7 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com/YOUR-USERNAME/Quote-flow-app.git'
+                git 'https://github.com/indushreelokesh/Quote-flow-app.git'
             }
         }
 
